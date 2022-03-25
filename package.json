@@ -64,7 +64,7 @@
     "get-port": "^5.1.0",
     "in-series": "^0.0.4",
     "jest": "^24.9.0",
-    "minimist": "1.2.3",
+    "minimist": "1.2.6",
     "prettier": "^1.19.1",
     "superagent-mocker": "^0.5.2",
     "ts-jest": "^24.3.0",
