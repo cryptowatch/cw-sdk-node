@@ -33,7 +33,7 @@
     "decimal.js-light": "^2.5.0",
     "js-yaml": "^3.13.1",
     "long": "^4.0.0",
-    "protobufjs": "^6.10.2",
+    "protobufjs": "^7.2.4",
     "superagent": "^5.2.1",
     "tslib": "^1.10.0",
     "uuid": "^3.3.3",
